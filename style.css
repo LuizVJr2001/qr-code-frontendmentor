@@ -34,11 +34,6 @@ body {
     gap: 20px;
 }
 
-.card__content h1 {
-    font-weight: 700;
-    font-size: 24px;
-}
-
 .card__content p {
     font-weight: 400;
     color: hsl(210, 2%, 49%);
