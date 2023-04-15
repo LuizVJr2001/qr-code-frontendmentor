@@ -1,5 +1,9 @@
 # Frontend Mentor - QR code component
 
+# Link para pagina web
+
+https://luizvjr2001.github.io/qr-code-frontendmentor/
+
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
